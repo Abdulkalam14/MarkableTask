@@ -8,7 +8,7 @@
   <br/>
 
 
-https://github.com/danielochuba/hospital_app/assets/81446846/1a57fe07-111e-4bd0-a88f-a1305c062f16
+
 
 
 </div>
@@ -106,7 +106,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone "https://github.com/danielochuba/hospital_app.git"
+  git clone "https://github.com/Abdulkalam14/MarkableTask.git"
 ```
 ### Install
 
