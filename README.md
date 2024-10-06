@@ -33,12 +33,7 @@ https://github.com/user-attachments/assets/872d4fe3-37a0-47ca-9c95-808ba6d35a16
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+
 
 # 📖 [HOSPITAL APP] <a name="about-project"></a>
 
